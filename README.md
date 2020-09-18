@@ -1,4 +1,4 @@
 # facebook-login
 
 
-https://github.com/shamilsulaiman/facebook-login.git
+ https://shamilsulaiman.github.io/facebook-login/
